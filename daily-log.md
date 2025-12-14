@@ -10,3 +10,10 @@ Day 1 - Fri, Dec 12, 2025  4:16:29 PM
 - Topics: Elastic IPs, Placement Groups, ENI, EC2 Hibernate
 - Learning time: 2h
 
+## Day 14 - Sunday, Dec 15, 2025
+- AWS Section 7: EC2 Instance Storage completed
+- Topics: EBS, EFS, Snapshots, AMI, Volume Types, Encryption
+- Learning time: 2h45
+- Progress: 8/33 sections (24%)
+- Blog published: Storage Deep Dive
+
