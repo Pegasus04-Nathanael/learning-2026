@@ -76,5 +76,5 @@ result = sol.addTwoNumbers(tA1, tB1)
 
 # TEST
 print("\n--- TEST AFFICHAGE ---")
-#print("A = ")
+#print("Resultat = ")
 result.affichage() # Va afficher: Liste: 9 -> 5 -> 2 | Nombre réel: 259
