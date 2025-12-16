@@ -22,3 +22,10 @@ Day 1 - Fri, Dec 12, 2025  4:16:29 PM
 - Life Strategy (Ali Abdaal) ✅
 - Startup Legal Basics ✅
 
+
+## Day 16 - Tuesday, Dec 16, 2025
+- AWS Section 8: Elastic Load Balancing (Lectures 70-76)
+- Topics: High Availability, ALB, NLB, hands-on labs
+- Learning time: 1h30 
+- Leetcode: 1 problem solved (Hard) ✅
+
